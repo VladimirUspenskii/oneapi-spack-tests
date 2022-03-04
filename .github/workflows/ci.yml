@@ -9,8 +9,8 @@ on:
   pull_request:
 
 env:
-  SPACK_REPO: spack/spack
-  SPACK_BRANCH: develop
+  SPACK_REPO: VladimirUspenskii/spack
+  SPACK_BRANCH: test_branch
 
 jobs:
   checks:
