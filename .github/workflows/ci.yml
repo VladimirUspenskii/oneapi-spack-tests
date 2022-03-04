@@ -10,7 +10,7 @@ on:
 
 env:
   SPACK_REPO: VladimirUspenskii/spack
-  SPACK_BRANCH: intel-oneapi-2022.2-release
+  SPACK_BRANCH: test_branch
 
 jobs:
   checks:
